@@ -11,7 +11,7 @@ We are constantly improving the overall function scope. Here are some things tha
 ![Screenshot of the Checkmater manual import screen](https://github.com/user-attachments/assets/27f705f1-9d52-4088-af13-5e8fba44674b)
 
 Documentation links:
-- [General usage](/usage) - how to use Checkmater and it's features
-- [API documentation](/api-docs) - for **developers** - how to programmatically interact with Checkmater and implement it in your application/site
+- [General usage](usage) - how to use Checkmater and it's features
+- [API documentation](api-docs) - for **developers** - how to programmatically interact with Checkmater and implement it in your application/site
 
 &copy; Checkmater 2025
