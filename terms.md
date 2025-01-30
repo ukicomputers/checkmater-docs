@@ -2,10 +2,10 @@
 This section of documentation is general terms of service (your safety, and other information). You can always go back to the Checkmater by clicking [here](https://checkmater.ugljesa.hackclub.app).
 
 ## Need help using Checkmater?
-You can visit [usage page](/usage) for help on how to use Checkmater in video form.
+You can visit [usage page](usage) for help on how to use Checkmater in video form.
 
 ## Privacy Policy
-You can view privacy policy [here](/privacy).
+You can view privacy policy [here](privacy).
 
 ## Contact details
 If you ever have an issue, or you want to contact us for other reasons, you can do so by:
